@@ -4,7 +4,7 @@ Tu najdete najnovejšo različico citacijske kode, s katero nam vsem poskušam o
 # Navodila za uporabo
 V nadaljevanju sledijo navodila za inštalacijo in uporabo citacijskega stila. Ta se rahlo razlikujejo med orodjema Zotero in Mendeley.
 ## Zotero
-### Inštalacija
+### Namestitev
 1. Prenesite najnovejšo različico kode iz zavihka [releases](https://github.com/enej-ls/recsa/releases) s klikom na datoteko "ArheoUL_x.x.x.csl", ki se nahaja v sekciji "Assets".
 2. V desktop različici Zotera navigirajte v okno preferences (Edit -> Preferences na orodni vrstici) in izberite zavihek "Cite".
 <img width="455" alt="Screenshot_34" src="https://github.com/enej-ls/recsa/assets/63611350/d11e780f-fdd0-45b0-8049-0d2667e3e9e7">
