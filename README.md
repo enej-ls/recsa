@@ -2,7 +2,7 @@
 
 Tu najdete najnovejšo različico citacijske kode, s katero nam vsem poskušam olajšati življenja. Ta deluje tako z Zotero kot z Mendeley in jo nameravam sproti dopolnjevati in izpopolnjevati. Cilj je, da verzija 1.0.0 zaobjema vse specifikacije oddelčnih navodil za citiranje OzA in deluje brez napak. Do njenega izida svetujem uporabo najnovejše različice in pozorno nadzorovanje njenega delovanja. Opažene napake in nepodprte vrste virov lahko prijavite kot "new issue" [v zavihku issues](https://github.com/enej-ls/recsa/issues).
 # Navodila za uporabo
-V nadaljevanju sledijo navodila za inštalacijo in uporabo citacijskega stila. Ta se rahlo razlikujejo med orodjema Zotero in Mendeley.
+V nadaljevanju sledijo navodila za inštalacijo in uporabo citacijskega stila. Ta se rahlo razlikujejo med orodjema Zotero in Mendeley. Kar jima je pri uporabi skupno je sledeče: če ima publikacija, ki jo želite dodati v svojo Zotero/Mendeley knjižnico, ISBN številko, je to daleč najboljši način za vnos, saj oba programa podpirata avtomatsko pridobivanje metapodatkov iz ISBN. Starejše publikacije, ki ga še nimajo, vnesite na roke.
 ## Namestitev z brskalniško razširitvijo
 Če imate nameščen Zoterov ali Mendeleyev add-on za spletni brskalnik je namestitev najlažja takole:
 1. Na vrhu te strani s seznama izberete datoteko "ArheoUL_x.x.x.csl", kjer je x.x.x. najnovejša verzija.
