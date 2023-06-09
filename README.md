@@ -4,7 +4,7 @@ Tu najdete najnovejšo različico citacijske kode, s katero nam vsem poskušam o
 # Navodila za uporabo
 V nadaljevanju sledijo navodila za inštalacijo in uporabo citacijskega stila. Ne posodablja se avtomatsko, zato je treba namestitevni postopek ponoviti vsakič, ko izide nova verzija. Ta se rahlo razlikuje med orodjema Zotero in Mendeley. Kar jima je pri uporabi skupno je sledeče: če ima publikacija, ki jo želite dodati v svojo Zotero/Mendeley knjižnico, ISBN številko, je to daleč najboljši način za vnos, saj oba programa podpirata avtomatsko pridobivanje metapodatkov iz ISBN. Starejše publikacije, ki ga še nimajo, vnesite na roke.
 ## Namestitev z brskalniško razširitvijo
-Če imate nameščen Zoterov ali Mendeleyev add-on za spletni brskalnik je namestitev najlažja takole:
+Če imate nameščen Zoterov ali Mendeleyev add-on za spletni brskalnik, je namestitev najlažja takole:
 1. Na vrhu te strani s seznama izberete datoteko "ArheoUL_x.x.x.csl", kjer je x.x.x. najnovejša verzija.
  <img width="669" alt="Screenshot_40" src="https://github.com/enej-ls/recsa/assets/63611350/73e0f5cd-91c3-4000-a74c-91bc9038f33c">
 
